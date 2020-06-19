@@ -1,2 +1,5 @@
 # my-blog
-tried changing somethings.
+
+
+Deployed on - Python Anywhere.
+head over to website - http://crayon7435.pythonanywhere.com/
